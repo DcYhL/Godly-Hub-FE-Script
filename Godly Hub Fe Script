@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local MainWindow = OrionLib:MakeWindow({Name = "Godly Hub", HidePremium = false, IntroEnabled = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local MainWindow = OrionLib:MakeWindow({Name = "Godly Hub | FE Script", HidePremium = false, IntroEnabled = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local FOVCircle = true
 local CircleRadius = 80
